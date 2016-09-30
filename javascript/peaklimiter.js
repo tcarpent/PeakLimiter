@@ -25,7 +25,7 @@ ON ANY THEORY OF LIABILITY, WHETHER IN CONTRACT, STRICT LIABILITY, OR TORT
 SOFTWARE, EVEN IF ADVISED OF THE POSSIBILITY OF SUCH DAMAGE.
 */
 
-import AbstractNode from './asbtractnode.js';
+import AbstractNode from './abstractnode.js';
 import utilities from './utils.js';
 
 export default class PeakLimiterNode extends AbstractNode
