@@ -138,7 +138,7 @@ export default class PeakLimiterNode extends AbstractNode
                 const numSamples = inputBuffer.length;
                 
                 var tmp, gain;
-                var maximum, sectionMaximum;
+                var maximum;
                 
                 for( let i = 0; i < numSamples; i++ )
                 {
