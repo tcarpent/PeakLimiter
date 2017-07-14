@@ -13,4 +13,3 @@ listening conditions, allows contents providers to deliver the same mix
 over broadcast and OTT networks. This Peak Limiter can be driven by
 metadata or keeps the signal below 0 dBTP by default.
 
-![AGC](https://github.com/tcarpent/PeakLimiter/blob/master/Synoptique_AGC.pdf)
