@@ -1,4 +1,4 @@
-Radio France, Orange Labs, IRCAM and France Televisions are happy to
+[Radio France](https://www.radiofrance.fr), [Orange Labs](https://www.orange.fr), [IRCAM](https://www.ircam.fr) and [France Televisions](https://www.francetelevisions.fr) are happy to
 announce the release of their open-source Peak Limiter:
 
 This development allows the owners of web/app players to provide
