@@ -46,6 +46,7 @@ SOFTWARE, EVEN IF ADVISED OF THE POSSIBILITY OF SUCH DAMAGE.
 
   /* calc m_attack time in samples */
   m_attack = (int)(maxAttackMsIn * maxSampleRateIn / 1000);
+  m_releaseMs = releaseMsIn;
 
   if (m_attack < 1) /* m_attack time is too short */
 	  m_attack = 1; 
